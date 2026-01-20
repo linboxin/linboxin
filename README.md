@@ -1,10 +1,4 @@
-# Hi there! 👋
 
-Tech Enthusiast | Passionate about Frontend, Backend, & Infrastructure Development
-
-Get things done
-
-#TechInnovator #AIEnthusiast #SoftwareEngineering #StudentDeveloper
 
 
 <picture>
