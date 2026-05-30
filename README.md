@@ -10,7 +10,7 @@
  <img width="720" height="397" alt="0423(2)" src="https://github.com/user-attachments/assets/a48c6692-5131-465a-aa7d-fb505520fd87" />
 
 
-
+I wanted to make my account private, but then others wouldn't be able to see my commits. So I made all my repositories private instead.
 
 
 <!-- <picture>
