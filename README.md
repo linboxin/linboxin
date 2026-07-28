@@ -19,3 +19,4 @@
 
 
 interest : Multimodal Models, Reinforcement Learning, General Agents
+super interested: Brain-computer interfaces, Silent speech interfaces
