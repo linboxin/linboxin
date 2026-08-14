@@ -17,8 +17,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JamessLin/JamessLin/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-
-interest : Multimodal Models, Reinforcement Learning, General Agents
-
-
-super interested: Brain-computer interfaces, Silent speech interfaces
+Hello
