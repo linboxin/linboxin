@@ -17,4 +17,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JamessLin/JamessLin/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-grateful to be part of this era.
+grateful 
